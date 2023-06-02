@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48a6cd1c-c6cb-4bbb-ba3b-27b804462b50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/diagUML.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/context/BasicContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/context/GameContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/context/PlayContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/game/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/output/OutputCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/output/OutputConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/utils/Randomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/utils/StringMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/card/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/card/CardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/card/PlayedCardCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/player/PlayerChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/player/callable/PlayerPlayCardCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/player/callable/PlayerSelectStackCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/player/human/PlayerChooserHumanConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/player/ia/PlayerChooserSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/stack/StackManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/stack/Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tictactoe/jeu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tictactoe/joueur.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/view/GamePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/view/GamePresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/view/GameView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/tictactoe/view/GameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/InputParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/console/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isep/tictactoe/core/Symbol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/tictactoe/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/tictactoe/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/tictactoe/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/tictactoe/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="xml" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QKoNCzmaMIyotxf2KpQ1jZoLGs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/calic/IdeaProjects/6quiprendv3&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\calic\IdeaProjects\6quiprendv3\src\main\java\com\isep\tictactoe\console" />
+      <recent name="C:\Users\calic\IdeaProjects\6quiprendv3\src\main\java\com\isep\tictactoe\core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.tictactoe.HelloApplication" />
+      <module name="tictactoe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isep.tictactoe.console.Main" />
+      <module name="tictactoe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isep.tictactoe.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tic-tac-toe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="tic-tac-toe" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48a6cd1c-c6cb-4bbb-ba3b-27b804462b50" name="Changes" comment="" />
+      <created>1685111593649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685111593649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

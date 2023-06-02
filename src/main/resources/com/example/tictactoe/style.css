@@ -1,0 +1,15 @@
+.bodystart{
+-fx-background-image:url("img/background.jpg");
+-fx-background-size:cover;
+}
+.regle{
+-fx-
+}
+
+.label {
+    -fx-alignment: center;
+}
+
+.vbox {
+    -fx-alignment: center;
+}
