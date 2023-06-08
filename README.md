@@ -1,5 +1,9 @@
 6 qui prend 
 
+CONSTANCE PERSAD
+CYNTHIA CALIMOUTTOUPOULLE
+MIKAEL DOS SANTOS
+
 But du jeu : Éviter de ramasser des têtes de bœufs (représentées par des cartes) qui ont une valeur en points. Le joueur avec le moins de points à la fin de la partie gagne.
 Déroulement du jeu :
 1. Distribuez 10 cartes à chaque joueur.
